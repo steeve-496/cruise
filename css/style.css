@@ -1,0 +1,146 @@
+body{
+   background-color:rgb(152, 228, 201);
+}
+.navbar {
+    background-color: #2e2b30 !important;
+}
+.logo-img
+{
+    width: 200px;
+}
+.nav-link 
+{
+    color: white;
+    padding: 25px !important;
+    font-size: larger;
+    background-color: #1a252f;
+}
+.nav-link:hover
+{
+    color: rgb(14, 104, 207);
+    
+}
+.collapse {
+    padding-left: 40%;
+}
+.secdon-sec
+{
+    margin-top: 90px;
+}
+ .first-image img
+ {
+width: 400px;
+height: 300px;
+border-radius: 11px;
+ }
+ .second-row
+ {
+    margin-top: 50px;
+ }
+ .page{
+    padding: 20px;
+    font-size: 2.25rem;
+    line-height: 2rem;
+    text-align: center !important;
+    color: darkred;
+ }
+
+ .container{
+    max-width: 1136px;
+    margin: auto;
+ }
+ .item img{
+   width: 100%;
+   border-radius: 20px;
+  
+}
+
+ .about{
+    background-color: rgb(1, 77, 163);
+    width: 100%;
+    margin: 0 auto;
+ }
+ .a1{
+    color: rgb(7, 7, 7);
+    padding: 20px;
+    font-size: 2.25rem;
+    line-height: 2rem;
+    text-align: center !important
+ }
+ .container{
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 20px;
+ }
+ .about{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+ }
+
+ .about1 p{
+    font-size: 18px;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+ }
+ .about1{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+ }
+
+ .c1{
+    color: rgb(9, 9, 9);
+    padding: 20px;
+    font-size: 2.25rem;
+    line-height: 2rem;
+    text-align: center !important
+ } 
+ 
+
+.contact1{
+   font-size: 3rem;
+   line-height: 2.5rem;
+   color: #1a252f;
+}
+
+.input-type{
+    margin-top: 10px;
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(18, 17, 17);
+    color: #040202;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+input{
+    height: 45px;
+}
+
+.footer {
+   padding-top: 5rem;
+   padding-bottom: 5rem;
+   background-color: #000000;
+   color: #ffffff;
+ }
+
+ .b1 {
+   background-color: #0258a8;
+   align-items: center;
+ }
+
+.pp{
+   font-style: italic;
+   font-display:unset;
+   color: rgb(100, 58, 3);
+}
+
+
+
+/*balance*/
+
+
+

@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(32, 55, 68);
+ }
+ h1{
+    color: rgb(232, 190, 245);
+ }
+ h3{
+    color: rgb(214, 12, 12);
+ }
+ .navbar {
+    background-color: #2e2b30 !important;
+}
+h6{
+    color: aliceblue;
+}
+h2{
+    color: rgb(2, 5, 4);
+}
+.logo-img
+{
+    width: 100px;
+}
+.nav-link 
+{
+    color: white;
+    padding: 25px !important;
+    font-size: larger;
+    background-color: #1a252f;
+}
+.collapse {
+    padding-left: 40%;
+}
+.secdon-sec
+{
+    margin-top: 90px;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 20px;
+ }
+ .item img{
+    width: 100%;
+    border-radius: 20px;
+   margin: auto;
+ }
+ .page{
+    color: blanchedalmond;
+ }
+ .clist{
+    color: aliceblue;
+ }
+ .btn{
+    color: antiquewhite;
+ }
